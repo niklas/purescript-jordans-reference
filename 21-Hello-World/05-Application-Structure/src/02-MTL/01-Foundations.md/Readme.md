@@ -1,6 +1,6 @@
 # Foundations
 
-Many people find it very difficult to understand how Monad Transformers actually work. I believe it's because new learners are exposed to too many new things at once, so that they get overwhelemed and likely don't understand why they don't understand.
+Many people find it very difficult to understand how Monad Transformers actually work. I believe it's because new learners are exposed to too many new things at once, so that they get overwhelmed and likely don't understand why they don't understand.
 
 Rather than jumping into an explanation of what monad transformers are, I'm going to build the necessary scaffolding to make understanding them easier. At the very end, I'll begin to show what problem they solve.
 
